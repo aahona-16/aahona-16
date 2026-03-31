@@ -33,17 +33,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aahona-16&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aahona-16&theme=tokyonight" />
-</p>
-
----
-
 ## 🌍 Connect With Me
 - 📫 Email: aahona1609@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/aahona-mukhopadhyay-451075293/
