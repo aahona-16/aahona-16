@@ -4,8 +4,7 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=🚀+Turning+ideas+into+real+apps;🤖+Exploring+AI+%26+Scalable+Systems;💡+Building+useful+tech%2C+not+brainrot;📚+Always+learning%2C+always+shipping" alt="Typing SVG" /></a>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+AI+%26+Full-Stack+Developer;%F0%9F%A4%96+Building+AI+Receptionists+%26+Local+RAGs;%F0%9F%92%A1+Creating+useful+systems+that+scale;%F0%9F%93%9A+Learning+.+Building+.+Shipping)](https://git.io/typing-svg)
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aahona-mukhopadhyay-451075293/)
