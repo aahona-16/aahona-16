@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:7c3aed,100:34d399&height=220&section=header&text=Aahona%20Mukhopadhyay&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20·%20Full%20Stack%20·%20Builder%20of%20Real%20Things&descAlignY=58&descSize=18&descColor=94a3b8" width="100%"/>
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+AI+%26+Full-Stack+Developer;%F0%9F%A4%96+Building+AI+Receptionists+%26+Local+RAGs;%F0%9F%92%A1+Creating+useful+systems+that+scale;%F0%9F%93%9A+Learning+.+Building+.+Shipping)](https://git.io/typing-svg)
+<br/>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Turning+ideas+into+real+apps;%F0%9F%A4%96+Exploring+AI+%26+Scalable+Systems;%F0%9F%92%A1+Building+useful+tech%2C+not+brainrot;%F0%9F%93%9A+Always+learning%2C+always+shipping)](https://git.io/typing-svg)
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aahona-mukhopadhyay-451075293/)
