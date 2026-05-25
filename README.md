@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=🚀+Turning+ideas+into+real+apps;🤖+Exploring+AI+%26+Scalable+Systems;💡+Building+useful+tech%2C+not+brainrot;📚+Always+learning%2C+always+shipping" alt="Typing SVG" /></a>
+<a [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg) /></a>
 
 <br/><br/>
 
